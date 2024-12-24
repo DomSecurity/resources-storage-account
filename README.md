@@ -4,7 +4,7 @@
 
 
 <h1>Creating Subscription/Account and First Resource Group/Folder, Storage Account/DropBox</h1>
-In this tutorial, we observe creating an Azure subscription and within that subscription various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+"In this tutorial, we’ll explore how to create an Azure subscription and start working in the cloud. First, we’ll set up our first 'Resource Group' and create a 'Storage Account' within it. Next, we’ll upload a text file to the 'Storage Account,' make edits to the file directly within the Azure Portal, and then download the updated file to observe the changes." <br />
 
 
 <h2>Video Demonstration</h2>
@@ -14,10 +14,8 @@ In this tutorial, we observe creating an Azure subscription and within that subs
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Windows Computer
+- Notes/Snippet Application 
 
 <h2>Operating Systems Used </h2>
 
@@ -25,10 +23,14 @@ In this tutorial, we observe creating an Azure subscription and within that subs
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create an Azure Subscription
+- Log into the Azure Portal
+- Create a Resource Group
+- Set Up a Storage Account
+- Prepare a Text File Locally
+- Upload the Text File to Azure
+- Edit the File in Azure
+- Download the Edited File
 
 <h2>Actions and Observations</h2>
 
